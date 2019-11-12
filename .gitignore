@@ -6,6 +6,10 @@ __pycache__
 db.sqlite3
 media
 
+# sphinx #
+_build
+_static
+_templates
 
 # Installer logs
 pip-log.txt
